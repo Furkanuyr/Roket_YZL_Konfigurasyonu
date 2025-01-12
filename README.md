@@ -4,4 +4,4 @@ Ondan sonra enum verilerini oluşturuyorum.
 Struct Yapısının içinede bu enum veri tiplerini ve yazdırcağım configvalue atıyorum.
 Fonksiyonu oluştururken pointer kullanıyorum çünkü öbür türlü sadece bir kopyasını oluşturuyor. Kaydırma işlemlerinide reg value göre yapıyorum.
 Değerleri kullanıcadan alınmayacağı için kendim örnekteki değerleri kullanıyorum.
-Printf'le de  kullanıcıya gösteriyorum.
+Son olarakta Printf'le istenilen değerler  kullanıcıya gösteriliyor.
